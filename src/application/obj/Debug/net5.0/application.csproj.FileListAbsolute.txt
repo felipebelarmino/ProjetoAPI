@@ -66,4 +66,5 @@ C:\DPSP\ProjetoAPI\src\application\bin\Debug\net5.0\domain.pdb
 C:\DPSP\ProjetoAPI\src\application\bin\Debug\net5.0\service.pdb
 C:\DPSP\ProjetoAPI\src\application\bin\Debug\net5.0\crossCutting.pdb
 C:\DPSP\ProjetoAPI\src\application\bin\Debug\net5.0\data.pdb
-C:\DPSP\ProjetoAPI\src\application\obj\Debug\net5.0\staticwebassets\application.StaticWebAssets.xml
+C:\DPSP\ProjetoAPI\src\application\bin\Debug\net5.0\AutoMapper.dll
+C:\DPSP\ProjetoAPI\src\application\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
