@@ -1,0 +1,12 @@
+C:\DPSP\ProjetoAPI\src\service\bin\Debug\net5.0\service.deps.json
+C:\DPSP\ProjetoAPI\src\service\bin\Debug\net5.0\service.dll
+C:\DPSP\ProjetoAPI\src\service\bin\Debug\net5.0\ref\service.dll
+C:\DPSP\ProjetoAPI\src\service\bin\Debug\net5.0\service.pdb
+C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.csproj.AssemblyReference.cache
+C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.GeneratedMSBuildEditorConfig.editorconfig
+C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.AssemblyInfoInputs.cache
+C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.AssemblyInfo.cs
+C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.csproj.CoreCompileInputs.cache
+C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.dll
+C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\ref\service.dll
+C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.pdb

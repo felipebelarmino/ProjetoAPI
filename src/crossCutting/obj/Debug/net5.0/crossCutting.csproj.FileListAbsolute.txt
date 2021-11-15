@@ -1,0 +1,12 @@
+C:\DPSP\ProjetoAPI\src\crossCutting\bin\Debug\net5.0\crossCutting.deps.json
+C:\DPSP\ProjetoAPI\src\crossCutting\bin\Debug\net5.0\crossCutting.dll
+C:\DPSP\ProjetoAPI\src\crossCutting\bin\Debug\net5.0\ref\crossCutting.dll
+C:\DPSP\ProjetoAPI\src\crossCutting\bin\Debug\net5.0\crossCutting.pdb
+C:\DPSP\ProjetoAPI\src\crossCutting\obj\Debug\net5.0\crossCutting.csproj.AssemblyReference.cache
+C:\DPSP\ProjetoAPI\src\crossCutting\obj\Debug\net5.0\crossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\DPSP\ProjetoAPI\src\crossCutting\obj\Debug\net5.0\crossCutting.AssemblyInfoInputs.cache
+C:\DPSP\ProjetoAPI\src\crossCutting\obj\Debug\net5.0\crossCutting.AssemblyInfo.cs
+C:\DPSP\ProjetoAPI\src\crossCutting\obj\Debug\net5.0\crossCutting.csproj.CoreCompileInputs.cache
+C:\DPSP\ProjetoAPI\src\crossCutting\obj\Debug\net5.0\crossCutting.dll
+C:\DPSP\ProjetoAPI\src\crossCutting\obj\Debug\net5.0\ref\crossCutting.dll
+C:\DPSP\ProjetoAPI\src\crossCutting\obj\Debug\net5.0\crossCutting.pdb

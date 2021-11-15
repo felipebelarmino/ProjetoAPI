@@ -1,0 +1,12 @@
+C:\DPSP\ProjetoAPI\src\domain\bin\Debug\net5.0\domain.deps.json
+C:\DPSP\ProjetoAPI\src\domain\bin\Debug\net5.0\domain.dll
+C:\DPSP\ProjetoAPI\src\domain\bin\Debug\net5.0\ref\domain.dll
+C:\DPSP\ProjetoAPI\src\domain\bin\Debug\net5.0\domain.pdb
+C:\DPSP\ProjetoAPI\src\domain\obj\Debug\net5.0\domain.csproj.AssemblyReference.cache
+C:\DPSP\ProjetoAPI\src\domain\obj\Debug\net5.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DPSP\ProjetoAPI\src\domain\obj\Debug\net5.0\domain.AssemblyInfoInputs.cache
+C:\DPSP\ProjetoAPI\src\domain\obj\Debug\net5.0\domain.AssemblyInfo.cs
+C:\DPSP\ProjetoAPI\src\domain\obj\Debug\net5.0\domain.csproj.CoreCompileInputs.cache
+C:\DPSP\ProjetoAPI\src\domain\obj\Debug\net5.0\domain.dll
+C:\DPSP\ProjetoAPI\src\domain\obj\Debug\net5.0\ref\domain.dll
+C:\DPSP\ProjetoAPI\src\domain\obj\Debug\net5.0\domain.pdb
