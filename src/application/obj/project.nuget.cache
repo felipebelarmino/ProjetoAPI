@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sJFjBHgO0zh4cN+Hy5O3kbr24tMaio99OwEXk8Dv8HkbCtBxufqeoi6mMnnoY504gWmi2+gEWh3Wa62WW+QYHg==",
+  "dgSpecHash": "SfV+unVuYWsLOmbh+KZ+TCJF6is+UKUyiEA1KwC8NKIHhWnB0FtL4CzM3d24c13DPBHGDe8jPruuy3qbH8lBrA==",
   "success": true,
   "projectFilePath": "C:\\DPSP\\ProjetoAPI\\src\\application\\application.csproj",
   "expectedPackageFiles": [
@@ -107,8 +107,7 @@
     "C:\\Users\\f.gomes.belarmino\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\f.gomes.belarmino\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\f.gomes.belarmino\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\f.gomes.belarmino\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\f.gomes.belarmino\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+    "C:\\Users\\f.gomes.belarmino\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
