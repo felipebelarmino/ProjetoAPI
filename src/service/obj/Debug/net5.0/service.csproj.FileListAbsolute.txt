@@ -10,10 +10,8 @@ C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.csproj.CoreCompileInputs
 C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.dll
 C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\ref\service.dll
 C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.pdb
-C:\DPSP\ProjetoAPI\src\service\bin\Debug\net5.0\crossCutting.dll
 C:\DPSP\ProjetoAPI\src\service\bin\Debug\net5.0\data.dll
 C:\DPSP\ProjetoAPI\src\service\bin\Debug\net5.0\domain.dll
 C:\DPSP\ProjetoAPI\src\service\bin\Debug\net5.0\domain.pdb
 C:\DPSP\ProjetoAPI\src\service\bin\Debug\net5.0\data.pdb
-C:\DPSP\ProjetoAPI\src\service\bin\Debug\net5.0\crossCutting.pdb
 C:\DPSP\ProjetoAPI\src\service\obj\Debug\net5.0\service.csproj.CopyComplete

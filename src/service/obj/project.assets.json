@@ -1505,16 +1505,6 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "crossCutting/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/crossCutting.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/crossCutting.dll": {}
-        }
-      },
       "data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -5797,11 +5787,6 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "crossCutting/1.0.0": {
-      "type": "project",
-      "path": "../crossCutting/crossCutting.csproj",
-      "msbuildProject": "../crossCutting/crossCutting.csproj"
-    },
     "data/1.0.0": {
       "type": "project",
       "path": "../data/data.csproj",
@@ -5815,7 +5800,6 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "crossCutting >= 1.0.0",
       "data >= 1.0.0",
       "domain >= 1.0.0"
     ]
@@ -5855,9 +5839,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\DPSP\\ProjetoAPI\\src\\crossCutting\\crossCutting.csproj": {
-              "projectPath": "C:\\DPSP\\ProjetoAPI\\src\\crossCutting\\crossCutting.csproj"
-            },
             "C:\\DPSP\\ProjetoAPI\\src\\data\\data.csproj": {
               "projectPath": "C:\\DPSP\\ProjetoAPI\\src\\data\\data.csproj"
             },

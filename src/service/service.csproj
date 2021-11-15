@@ -2,8 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\domain\domain.csproj" />
-    <ProjectReference Include="..\data\data.csproj" />
-    <ProjectReference Include="..\crossCutting\crossCutting.csproj" />
+    <ProjectReference Include="..\data\data.csproj" />    
   </ItemGroup>
 
   <PropertyGroup>
