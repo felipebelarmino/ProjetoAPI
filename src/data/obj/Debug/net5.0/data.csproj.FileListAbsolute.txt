@@ -10,3 +10,6 @@ C:\DPSP\ProjetoAPI\src\data\obj\Debug\net5.0\data.csproj.CoreCompileInputs.cache
 C:\DPSP\ProjetoAPI\src\data\obj\Debug\net5.0\data.dll
 C:\DPSP\ProjetoAPI\src\data\obj\Debug\net5.0\ref\data.dll
 C:\DPSP\ProjetoAPI\src\data\obj\Debug\net5.0\data.pdb
+C:\DPSP\ProjetoAPI\src\data\bin\Debug\net5.0\data.runtimeconfig.json
+C:\DPSP\ProjetoAPI\src\data\bin\Debug\net5.0\data.runtimeconfig.dev.json
+C:\DPSP\ProjetoAPI\src\data\obj\Debug\net5.0\data.genruntimeconfig.cache
